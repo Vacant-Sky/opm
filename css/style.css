@@ -9,7 +9,14 @@
 .carousel-caption{
   padding-top: -50px;
 }
+.bs{
+    	margin: 20px;
+      padding: 20px;
+    }
 
+.panel-heading a{
+  text-decoration: none;
+}
 
 
 
